@@ -1,6 +1,6 @@
 # ffmpeg-video-trim
 
-This simple python code will help you get the ffmpeg command to trim your video easily. This tool is very useful if you have to trim a lot of part of a single video. 
+This simple python code will help you get the ffmpeg command to trim your video easily. This tool is very useful if you have to trim a lot of part of a single video. Instade of writing lines of commands everytime using this tool you can trim all the selected sector of the video at once. 
 
 # How to use
 
@@ -13,3 +13,4 @@ This simple python code will help you get the ffmpeg command to trim your video 
 
 # 
 If you need help please feel free to create a pull requests 
+This is my first program written in python sorry if its hardcoded <3
