@@ -12,5 +12,5 @@ This simple python code will help you get the ffmpeg command to trim your video 
 
 
 # 
-If you need help please feel free to create a pull requests 
+If you need help please feel free to create a pull requests.
 This is my first program written in python sorry if its hardcoded <3
