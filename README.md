@@ -1,4 +1,4 @@
-# ffmpeg-video-trim
+# auto ffmpeg video trim command writter
 
 This simple python code will help you get the ffmpeg command to trim your video easily. This tool is very useful if you have to trim a lot of part of a single video. Instade of writing lines of commands everytime using this tool you can trim all the selected sector of the video at once. 
 
