@@ -7,7 +7,7 @@ This simple python code will help you get the ffmpeg command to trim your video 
 1) In order to use this tool make sure you have ffmpeg installed and its executable. To install ffmpeg for windows you can watch this video : https://youtu.be/MPV7JXTWPWI
 
 2) Next you would need to download a python executable. ( I am personally using vscode)
-3) copy paste the main.py into your executable and you should be good to go
+3) copy paste the main.py into your executable and rest of the instructions should be in there 
 
 
 
